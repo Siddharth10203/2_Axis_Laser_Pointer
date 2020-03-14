@@ -12,7 +12,7 @@ can be found on the [arduino repository](https://github.com/arduino/Arduino).
 
 ## LIST OF PROJECTS
 - [2_AXIS_Laser](2_AXIS_Laser/)
-- [Test](2_AXIS_Laser/)
+- [Test](Tests/)
 
 ## LICENSES
 
