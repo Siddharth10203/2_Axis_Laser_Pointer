@@ -13,7 +13,7 @@ can be found on the [arduino repository](https://github.com/arduino/Arduino).
 ## LIST OF PROJECTS
 - [2_AXIS_Laser](2_AXIS_Laser/)
 - [Garage_LED_Controller](Garage_LED_Controller/)
-- [UBCO](https://github.com/Siddharth10203/Arduino_Projects/tree/master/UBCOpbots_SG)
+- [UBCOpbots_SG](UBCOpbots_SG/)
 - [Test](Tests/)
 
 ## LICENSES
