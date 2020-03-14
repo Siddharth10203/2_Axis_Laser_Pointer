@@ -12,6 +12,7 @@ can be found on the [arduino repository](https://github.com/arduino/Arduino).
 
 ## LIST OF PROJECTS
 - [2_AXIS_Laser](2_AXIS_Laser/)
+- [Garage_LED_Controller](Garage_LED_Controller/)
 - [Test](Tests/)
 
 ## LICENSES
