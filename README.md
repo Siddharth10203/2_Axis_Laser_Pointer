@@ -21,4 +21,4 @@ can be found on the [arduino repository](https://github.com/arduino/Arduino).
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2019 © [Siddharth10203.](https://github.com/Siddharth10203)
+- Copyright 2020 © [Siddharth10203.](https://github.com/Siddharth10203)
